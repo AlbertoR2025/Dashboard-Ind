@@ -12,7 +12,7 @@ P109S_Env/
 *.xlsx
 *.xls
 *.csv
-dataframe_limpio.csv
+#dataframe_limpio.csv
 Base de Datos.XLSX
 
 # Streamlit
