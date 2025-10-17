@@ -13,7 +13,7 @@ P109S_Env/
 *.xls
 *.csv
 #dataframe_limpio.csv
-Base de Datos.XLSX
+#Base de Datos.XLSX
 
 # Streamlit
 .streamlit/secrets.toml
